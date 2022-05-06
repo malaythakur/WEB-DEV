@@ -1,0 +1,33 @@
+body {
+    
+    background-color: #cccccc;
+   }
+
+.box{
+    margin:20px;
+    position:relative;
+    padding:50px;
+    width: 480px;
+    height: 600x;
+    text-align: center;
+    border: 10px solid red;
+    background-image: url("buggati.jpg");
+    background-size: contain;
+    background-repeat: no-repeat;
+    border-radius: 6px;
+    top: 200px;
+    left: 450px;
+    right: 450px;
+    bottom: 200px;
+}
+
+/*
+PRIORITY -> 
+inline 
+internal
+files css
+*/
+/*
+Margin : 20px; from all direction
+Padding : 
+section
